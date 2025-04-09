@@ -1,4 +1,4 @@
-# Projet 2 : Installation de Windows Server + Active Directory
+##  Projet 2 : Installation de Windows Server + Active Directory
 
 🎯 **Objectif :** Mettre en place un domaine pour centraliser les utilisateurs.
 
@@ -12,7 +12,7 @@
 
 🕓 **Durée estimée :** 2-3 jours
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

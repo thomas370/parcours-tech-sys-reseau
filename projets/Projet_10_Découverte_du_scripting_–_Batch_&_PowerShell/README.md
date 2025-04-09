@@ -1,4 +1,4 @@
-# Projet 10 : Découverte du scripting – Batch & PowerShell
+##  Projet 10 : Découverte du scripting – Batch & PowerShell
 
 🎯 **Objectif :** Comprendre les bases de l’automatisation avec des scripts pour effectuer des tâches systèmes récurrentes.
 
@@ -13,7 +13,7 @@
 
 🕓 **Durée estimée :** 1 à 2 jours
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

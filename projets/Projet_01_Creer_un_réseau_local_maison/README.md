@@ -1,4 +1,4 @@
-# Projet 1 : Créer un réseau local maison (LAN de base)
+## Projet 1 : Créer un réseau local maison (LAN de base)
 
 🎯 **Objectif :** Comprendre les bases du réseau local et des partages entre machines.
 
@@ -12,7 +12,7 @@
 
 🕓 **Durée estimée :** 1 jour
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

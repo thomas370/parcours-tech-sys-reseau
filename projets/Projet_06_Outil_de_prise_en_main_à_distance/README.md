@@ -1,4 +1,4 @@
-# Projet 6 : Outil de prise en main à distance
+## Projet 6 : Outil de prise en main à distance
 
 🎯 **Objectif :** Permettre l’assistance utilisateur à distance.
 
@@ -11,7 +11,7 @@
 
 🕓 **Durée estimée :** 0.5 jour
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

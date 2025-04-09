@@ -1,4 +1,4 @@
-# Projet 3 : Création et déploiement d’image système
+##  Projet 3 : Création et déploiement d’image système
 
 🎯 **Objectif :** Préparer des postes de travail standardisés.
 
@@ -12,7 +12,7 @@
 
 🕓 **Durée estimée :** 2 jours
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

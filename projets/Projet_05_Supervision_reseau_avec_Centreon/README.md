@@ -1,4 +1,4 @@
-# Projet 5 : Supervision réseau avec Centreon
+## Projet 5 : Supervision réseau avec Centreon
 
 🎯 **Objectif :** Surveiller l’état de machines sur un réseau.
 
@@ -12,7 +12,7 @@
 
 🕓 **Durée estimée :** 3-4 jours
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

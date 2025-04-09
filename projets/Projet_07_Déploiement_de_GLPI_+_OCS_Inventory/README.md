@@ -1,4 +1,4 @@
-# Projet 7 : Déploiement de GLPI + OCS Inventory
+##  Projet 7 : Déploiement de GLPI + OCS Inventory
 
 🎯 **Objectif :** Mettre en place un système de gestion de tickets et inventaire matériel.
 
@@ -11,7 +11,7 @@
 
 🕓 **Durée estimée :** 3 jours
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

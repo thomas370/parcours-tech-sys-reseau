@@ -1,4 +1,4 @@
-# Projet 4 : Sauvegarde automatique de fichiers utilisateurs
+## Projet 4 : Sauvegarde automatique de fichiers utilisateurs
 
 🎯 **Objectif :** Assurer la sécurité des données utilisateurs.
 
@@ -12,7 +12,7 @@
 
 🕓 **Durée estimée :** 1-2 jours
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

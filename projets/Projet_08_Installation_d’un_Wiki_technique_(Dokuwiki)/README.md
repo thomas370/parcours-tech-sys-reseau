@@ -1,4 +1,4 @@
-# Projet 8 : Installation d’un Wiki technique (Dokuwiki)
+##  Projet 8 : Installation d’un Wiki technique (Dokuwiki)
 
 🎯 **Objectif :** Créer une base documentaire pour centraliser les procédures.
 
@@ -11,7 +11,7 @@
 
 🕓 **Durée estimée :** 1-2 jours
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**

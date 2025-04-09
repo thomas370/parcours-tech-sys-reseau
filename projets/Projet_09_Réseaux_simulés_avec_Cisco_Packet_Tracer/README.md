@@ -1,4 +1,4 @@
-# Projet 9 : Réseaux simulés avec Cisco Packet Tracer
+##  Projet 9 : Réseaux simulés avec Cisco Packet Tracer
 
 🎯 **Objectif :** Simuler des scénarios réseaux de base.
 
@@ -11,7 +11,7 @@
 
 🕓 **Durée estimée :** 1 jour
 
-## 📝 Fiche projet
+### 📝 Fiche projet
 
 1. **Nom du projet :**
 2. **Date de réalisation :**
