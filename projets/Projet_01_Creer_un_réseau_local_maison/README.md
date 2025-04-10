@@ -33,7 +33,7 @@
    - pour la deuxieme machine virtuelle, j'ai pris un PC physique avec Windows 11 que j'avais sous la main
    
 6. **Difficultés rencontrées :**
-   - pour cette première étape, j'ai eu un problème de configuration de la machine virtuelle, arrivé à la fin elle n'a pas voulu redémarrer, j'ai donc du la supprimer et la recréer à l'aide d'un tuto
+   - pour cette première étape, j'ai eu un problème de configuration de la machine virtuelle, arrivé à la fin elle n'a pas voulu redémarrer, j'ai donc du la supprimer et la recréer à l'aide d'un tuto ( https://oleks.ca/2024/09/19/installation-de-debian-sur-vmware-workstation/ )
      pour pouvoir appliquer les bons paramètres
 
 7. **Ce que j’ai appris :**
