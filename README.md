@@ -20,4 +20,4 @@ Chaque projet est documenté dans un dossier dédié avec une fiche projet, des 
 9. [Projet_09_Réseaux_simulés_avec_Cisco_Packet_Tracer](projets/Projet_09_R%C3%A9seaux_simul%C3%A9s_avec_Cisco_Packet_Tracer/README.md)
 10. [Projet_10_Découverte_du_scripting_–_Batch_&_PowerShell](projets/Projet_10_D%C3%A9couverte_du_scripting_%E2%80%93_Batch_%26_PowerShell/README.md)
 
-***
+**
