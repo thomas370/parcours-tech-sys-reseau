@@ -20,6 +20,8 @@
 4. **Matériel utilisé :**
 5. **Étapes réalisées :**  
    *(Inclure des captures si possible)*
-6. **Difficultés rencontrées :**
+6. **Difficultés rencontrées :
+   j'ai voulus créer ma vm windows server mais je n'ai pas reussi a la faire boot 
+   je vais laisser ça pour le moment 
 7. **Ce que j’ai appris :**
 8. **Améliorations possibles :**

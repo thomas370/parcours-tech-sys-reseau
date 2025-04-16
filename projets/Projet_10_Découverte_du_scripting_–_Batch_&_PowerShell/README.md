@@ -15,11 +15,12 @@
 
 ### 📝 Fiche projet
 
-1. **Nom du projet :**
-2. **Date de réalisation :**
-3. **Objectif du projet :**
-4. **Matériel utilisé :**
-5. **Étapes réalisées :**  
+1. Nom du projet : Découverte du scripting - Batch & PowerShell
+2. Date de réalisation : 14/04/2025
+3. Objectif du projet : Comprendre les bases de l'automatisation avec des scripts pour affectuer des tâches systemes récurrentes.
+4. Matériel utilisé : mon IDE (jetbrain)
+5. Étapes réalisées :
+   dans un premier temps je me suis renseigner sur la syntax du batch ( .bat et .ps1 )
    *(Inclure des captures si possible)*
 6. **Difficultés rencontrées :**
 7. **Ce que j’ai appris :**
