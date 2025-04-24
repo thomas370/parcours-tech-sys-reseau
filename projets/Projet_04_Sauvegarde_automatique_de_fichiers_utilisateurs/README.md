@@ -6,7 +6,7 @@
 - Création de scripts avec Robocopy ou rsync
 - Planification via le Planificateur de tâches Windows
 - Tests de restauration
-- Découverte d’outils : Veeam Agent Free, Cobian Backup, Duplicati
+- Découverte d’outils : Veeam Agent For microsoft, Cobian Backup, Duplicati
 
 📚 **Compétences travaillées :** Scripts de sauvegarde, automatisation, logiciels de backup
 
