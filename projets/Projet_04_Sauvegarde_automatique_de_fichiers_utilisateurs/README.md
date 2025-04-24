@@ -4,6 +4,7 @@
 
 🛠️ **Étapes à réaliser :**
 - Création de scripts avec Robocopy ou rsync
+- https://www.it-connect.fr/robocopy-copie-sauvegarde-et-synchronisation-de-donnees-sous-windows/
 - Planification via le Planificateur de tâches Windows
 - Tests de restauration
 - Découverte d’outils : Veeam Agent For microsoft, Cobian Backup, Duplicati
